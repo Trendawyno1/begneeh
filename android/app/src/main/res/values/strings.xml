@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Begneeh - بجنيه</string>
+    <string name="facebook_app_id">633290101929378</string>
+    <string name="fb_login_protocol_scheme">fb633290101929378</string>
+    <string name="facebook_client_token">698ef97c9324a120d7e10a1f09c272b2</string>
+
+</resources>
